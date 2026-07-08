@@ -190,10 +190,10 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  <br>
+  <sub><em>Contribution snake animation requires GitHub Action workflow setup</em></sub>
 </div>
-
-![Snake animation](https://github.com/IAmHaiel/IAmHaiel/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -204,11 +204,9 @@
 ## 🏆 GitHub Trophy
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKr6nwi2jN2U3kI/giphy.gif" width="100" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IAmHaiel&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophy" />
+  <img src="https://media.giphy.com/media/3o7TKr6nwi2jN2U3kI/giphy.gif" width="200" />
+  <br>
+  <sub><em>Trophy showcase requires GitHub Action workflow setup</em></sub>
 </div>
 
 ---
