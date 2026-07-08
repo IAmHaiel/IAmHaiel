@@ -107,7 +107,7 @@
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmHaiel&theme=react&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF" alt="Activity Graph" />
 </div>
 
 ---
