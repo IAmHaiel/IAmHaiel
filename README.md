@@ -2,7 +2,13 @@
 
 <img src="https://media.giphy.com/media/3o7abrH8o4LMaQYhpu/giphy.gif" width="100%" height="80" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,20,24,30&height=200&section=header&text=Hello,+I+Am+Haiel&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Developer+%26+Game+Developer&descAlignY=62&descSize=25" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=60&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hello,+I+Am+Haiel" />
+</h1>
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%26+Game+Developer" />
+</h2>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6F/giphy.gif" width="100%" height="5" />
 
@@ -52,7 +58,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,16,20,24,30&height=80&section=header&text=🛠️+Tech+Stack&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=🛠️+Tech+Stack" />
 </div>
 
 ## 🛠️ Tech Stack
@@ -131,7 +137,7 @@
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,16,20,24,30&height=10&section=footer" />
+  <img src="https://media.giphy.com/media/3o7abrH8o4LMaQYhpu/giphy.gif" width="100%" height="20" />
 </div>
 
 <div align="center">
@@ -156,7 +162,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,16,20,24,30&height=80&section=header&text=📊+GitHub+Stats&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=📊+GitHub+Stats" />
 </div>
 
 ## 📊 GitHub Stats
@@ -178,7 +184,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,16,20,24,30&height=80&section=header&text=🐍+Contribution+Snake&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=🐍+Contribution+Snake" />
 </div>
 
 ## 🐍 Contribution Snake
@@ -192,7 +198,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,16,20,24,30&height=80&section=header&text=🏆+GitHub+Trophy&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=🏆+GitHub+Trophy" />
 </div>
 
 ## 🏆 GitHub Trophy
@@ -208,7 +214,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,16,20,24,30&height=80&section=header&text=📈+Activity+Graph&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=📈+Activity+Graph" />
 </div>
 
 ## 📈 Activity Graph
@@ -224,7 +230,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,16,20,24,30&height=100&section=header&text=💡+Philosophy&fontSize=40&fontColor=fff&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=💡+Philosophy" />
 </div>
 
 <div align="center">
@@ -240,7 +246,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,16,20,24,30&height=150&section=footer&text=🚀+Let's+Connect!&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=Building+the+future,+One+commit+at+a+time&descAlignY=70&descSize=20" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF00FF&center=true&vCenter=true&width=400&lines=🚀+Let's+Connect!" />
 </div>
 
 <div align="center">
