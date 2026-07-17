@@ -46,10 +46,6 @@ Building scalable solutions | Clean code advocate | Always learning
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IAmHaiel&theme=dark&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakLabel=00FF99" width="70%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IAmHaiel&theme=react&hide_border=true&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF" width="98%" />
 </p>
 
