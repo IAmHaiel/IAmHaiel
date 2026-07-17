@@ -22,9 +22,9 @@ Building scalable solutions | Clean code advocate | Always learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-Expert-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-Expert-000000?style=flat-square&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal_Engine-Intermediate-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-Intermediate-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-Expert-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal_Engine-Expert-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-Advanced-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/React-Advanced-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
